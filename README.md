@@ -27,7 +27,7 @@ pip install pygame
 
 ### 3️⃣ Run the Game
 ```bash
-python pong.py
+python game.py
 
 ### 🖥️ Run the Executable (Windows)
 Download the .exe file from the Releases section or create one using:
